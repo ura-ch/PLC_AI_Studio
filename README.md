@@ -714,7 +714,18 @@ flowchart LR
 - **Best-of-N** — автоматическая оценка нескольких вариантов и выбор лучшего.
 - **RAG / эталоны** — заранее проверенные образцы кода, показываемые модели как примеры для повышения качества.
 - **Агент** — многошаговый ИИ-пайплайн (план → генерация → проверка → исправление).
-
+>
+> <p align="center">
+>  <a href="https://plcstudio.ru" target="_blank">
+>    <img src="https://img.shields.io/badge/🌐_PLC_AI_Studio_Сайт-plcstudio.ru-1f6feb?style=for-the-badge&logo=homepage&logoColor=white" alt="Сайт">
+>  </a>
+>  <a href="https://cloud.mail.ru/public/V2Aa/16DUvZZc3" target="_blank">
+>    <img src="https://img.shields.io/badge/⬇️_Скачать_программу-Cloud_Mail.ru-2ea44f?style=for-the-badge&logo=icloud&logoColor=white" alt="Скачать">
+>  </a>
+>  <br>
+>  <sub><b>Версия 1.0</b> · Бесплатно · Работает на Windows</sub>
+> </p>
+>
 ---
 
 *PLC AI Studio — руководство пользователя и научно-техническое описание. Июнь 2026.*
