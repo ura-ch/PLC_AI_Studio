@@ -2,9 +2,17 @@
 
 > **Инструмент автоматической генерации прикладного ПО программируемых логических контроллеров (ПЛК) на языке Structured Text стандарта МЭК 61131-3.**
 >
-**🏠 Официальный сайт:** [plcstudio.ru](https://plcstudio.ru)
-
-**⬇️ Скачать программу:** [Скачать PLC AI Studio](https://cloud.mail.ru/public/V2Aa/16DUvZZc3)
+> <p align="center">
+>  <a href="https://plcstudio.ru" target="_blank">
+>    <img src="https://img.shields.io/badge/🌐_PLC_AI_Studio_Сайт-plcstudio.ru-1f6feb?style=for-the-badge&logo=homepage&logoColor=white" alt="Сайт">
+>  </a>
+>  <a href="https://cloud.mail.ru/public/V2Aa/16DUvZZc3" target="_blank">
+>    <img src="https://img.shields.io/badge/⬇️_Скачать_программу-Cloud_Mail.ru-2ea44f?style=for-the-badge&logo=icloud&logoColor=white" alt="Скачать">
+>  </a>
+>  <br>
+>  <sub><b>Версия 1.0</b> · Бесплатно · Работает на Windows</sub>
+> </p>
+>
 > Программа принимает техническое задание и перечень сигналов (IOLIST) и выдаёт проверенный код, графические схемы (SFC, LD, FBD), технологическую мнемосхему SCADA и пояснительную записку по ГОСТ.
 >
 > *Редакция: июнь 2026. Документ описывает актуальную версию с детерминированным сборочным конвейером, генерацией по функциональным блокам (ФБ-чанкинг), двумя целями проверки (matiec и CODESYS), библиотекой проверенных эталонов и автоматическим выбором лучшего результата.*
